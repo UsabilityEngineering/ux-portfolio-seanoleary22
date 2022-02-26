@@ -3,7 +3,7 @@
 
 [Back to Home](../)
 
-![alt text](..assets/Roku-4k-remote.jpeg "Roku 4k Remote")
+![alt text](../assets/Roku-4k-remote.jpeg "Roku 4k Remote")
 
 I recently decided to upgrade my television streaming device from my 1st generation Amazon Fire Stick to the newest model of the Roku 4k streaming device based on recommendations. My initial impression besides an increase in experience quality due to new and faster hardware was the quality of the remote and its **usability**.
 
