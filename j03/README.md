@@ -1,10 +1,10 @@
-## Journal 2
-#### By Sean O’Leary - add date here
+## 2013 Subaru Audio Dashboard - User Experience Impression
+#### By Sean O’Leary - 5/15/2022
 
 [Back to Home](../)
 
-<!-- ![alt text](../assets/Roku-4k-remote.jpeg "Roku 4k Remote") -->
+![alt text](../assets/subaru console image.jpeg "Subaru console image")
 
-placeholder text for journal 3
+
 
 [Back to Home](../)
