@@ -5,6 +5,6 @@
 
 ![alt text](../assets/subaru_console_image.jpeg "Subaru console image")
 
-
+placeholder text until I can update it
 
 [Back to Home](../)
