@@ -5,6 +5,8 @@
 
 <!-- ![alt text](../assets/Roku-4k-remote.jpeg "Roku 4k Remote") -->
 
-placeholder text for journal 3
+placeholder text for journal 2
+
+Note: not finished by due date so may continue to be blank
 
 [Back to Home](../)
