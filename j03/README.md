@@ -3,7 +3,7 @@
 
 [Back to Home](../)
 
-![alt text](../assets/subaru console image.jpeg "Subaru console image")
+![alt text](../assets/subaru_console_image.jpeg "Subaru console image")
 
 
 
